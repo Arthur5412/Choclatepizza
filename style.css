@@ -1,0 +1,50 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @Arthur5412 Sign out
+0
+0 0 Pablito14/ChocolatePizza
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
+ChocolatePizza/css/style.css
+6719257  a day ago
+@Pablito14 Pablito14 Merge branch 'master' into arthur
+     
+33 lines (23 sloc)  314 Bytes
+si{
+    position:absolute;
+    float:right;
+
+
+
+
+
+
+.lt img {
+    float: left;
+}
+
+.fc{
+    display: inline-block;   
+}
+
+.sc{
+    display: inline-block;
+    margin-left: 13em;
+}
+
+.iop{
+    position: absolute;
+    margin-top: -14.6em;
+    margin-left: 4em;
+    opacity: 0.7;
+}
+.mp{
+position: relative;
+margin: auto;
+
+}
